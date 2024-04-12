@@ -28,7 +28,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer__copyright border-t-[1px] h-[50px] flex justify-center items-center mt-5">
-        <p>jobY, Tous droits rservés 2024</p>
+        <p>jobY, Tous droits reservés 2024</p>
       </div>
     
     </div>
